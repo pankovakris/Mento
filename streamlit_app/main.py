@@ -3,22 +3,9 @@
 import json
 import streamlit as st
 import pandas as pd
-import os
-
-DATA_FILE = "/mount/data/yc_s25_companies_deduplicated.json"
-os.makedirs("/mount/data", exist_ok=True)
 
 st.set_page_config(page_title="YC S25 Directory", layout="wide")
 st.title("🚀 Y Combinator S25 Companies")
-
-import shutil
-
-if not os.path.exists(DATA_FILE):
-    shutil.copy(
-        "./app/parser/data/yc_s25_companies_deduplicated.json",  # read-only seed file
-        DATA_FILE  # writable copy
-    )
-
 
 try:
     with open(
