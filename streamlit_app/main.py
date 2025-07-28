@@ -50,41 +50,6 @@ if search:
         | filtered_df["description"].str.contains(search, case=False, na=False)
     ]
 
-import shutil
-import subprocess
-
-import subprocess
-
-if st.sidebar.button("♻️ Re-parse data"):
-    st.info("♻️ Re-parsing data... hold on, this can take a minute.")
-    try:
-
-        for script in [
-            "/app/parser/yc_scraper.py",
-            "/app/parser/linkedin_parser.py",
-            "/app/parser/linkedin_enricher.py",
-        ]:
-            result = subprocess.run(["python", script], capture_output=True, text=True, check=True)
-            st.text(f"✅ {script} finished:\n{result.stdout}")
-
-        st.success("✅ Done! Re-parsed and updated.")
-        st.experimental_rerun()
-
-    except subprocess.CalledProcessError as e:
-        st.error(f"❌ Failed to re-parse data: {e}\n\nSTDOUT:\n{e.stdout}\nSTDERR:\n{e.stderr}")
-
-
-if st.sidebar.button("🧯 Restore companies from backup file"):
-    try:
-        shutil.copy(
-            "./app/parser/data/yc_s25_companies_backup.json",
-            "./app/parser/data/yc_s25_companies_deduplicated.json"
-        )
-        st.success("🪄 Backup restored successfully!")
-        st.experimental_rerun()
-    except Exception as e:
-        st.error(f"❌ Failed to restore from backup: {e}")
-
 
 st.markdown("### 📈 Stats")
 col1, col2, col3 = st.columns(3)
