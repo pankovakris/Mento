@@ -53,28 +53,32 @@ if search:
 import shutil
 import subprocess
 
-# Button to re-parse and refresh data
-if st.sidebar.button("🔄 Re-parse all companies"):
-    with st.spinner("🧙 Gathering spells... Scraping new data..."):
-        try:
-            # Backup
-            shutil.copy(
-                "./app/parser/data/yc_s25_companies_deduplicated.json",
-                "./app/parser/data/yc_s25_companies_backup.json"
-            )
+import subprocess
 
-            # Run the 3 steps in order
-            subprocess.run(["python", "./app/parser/yc_scraper.py"], check=True)
-            subprocess.run(["python", "./app/parser/linkedin_parser.py"], check=True)
-            subprocess.run(["python", "./app/parser/linkedin_enricher.py"], check=True)
+if st.sidebar.button("♻️ Re-parse data"):
+    st.info("♻️ Re-parsing data... hold on, this can take a minute.")
+    try:
+        shutil.copy(
+            "./app/parser/data/yc_s25_companies_deduplicated.json",
+            "./app/parser/data/yc_s25_companies_backup.json",
+        )
 
-            st.success("✨ Re-parsing complete! Data updated.")
-            st.experimental_rerun()
+        for script in [
+            "./app/parser/yc_scraper.py",
+            "./app/parser/linkedin_parser.py",
+            "./app/parser/linkedin_enricher.py",
+        ]:
+            result = subprocess.run(["python", script], capture_output=True, text=True, check=True)
+            st.text(f"✅ {script} finished:\n{result.stdout}")
 
-        except Exception as e:
-            st.error(f"😓 Failed to re-parse data: {e}")
+        st.success("✅ Done! Re-parsed and updated.")
+        st.experimental_rerun()
 
-if st.sidebar.button("🧯 Restore from backup"):
+    except subprocess.CalledProcessError as e:
+        st.error(f"❌ Failed to re-parse data: {e}\n\nSTDOUT:\n{e.stdout}\nSTDERR:\n{e.stderr}")
+
+
+if st.sidebar.button("🧯 Restore companies from backup file"):
     try:
         shutil.copy(
             "./app/parser/data/yc_s25_companies_backup.json",
