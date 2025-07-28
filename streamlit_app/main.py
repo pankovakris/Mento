@@ -50,6 +50,42 @@ if search:
         | filtered_df["description"].str.contains(search, case=False, na=False)
     ]
 
+import shutil
+import subprocess
+
+# Button to re-parse and refresh data
+if st.sidebar.button("🔄 Re-parse all companies"):
+    with st.spinner("🧙 Gathering spells... Scraping new data..."):
+        try:
+            # Backup
+            shutil.copy(
+                "./app/parser/data/yc_s25_companies_deduplicated.json",
+                "./app/parser/data/yc_s25_companies_backup.json"
+            )
+
+            # Run the 3 steps in order
+            subprocess.run(["python", "./app/parser/yc_scraper.py"], check=True)
+            subprocess.run(["python", "./app/parser/linkedin_parser.py"], check=True)
+            subprocess.run(["python", "./app/parser/linkedin_enricher.py"], check=True)
+
+            st.success("✨ Re-parsing complete! Data updated.")
+            st.experimental_rerun()
+
+        except Exception as e:
+            st.error(f"😓 Failed to re-parse data: {e}")
+
+if st.sidebar.button("🧯 Restore from backup"):
+    try:
+        shutil.copy(
+            "./app/parser/data/yc_s25_companies_backup.json",
+            "./app/parser/data/yc_s25_companies_deduplicated.json"
+        )
+        st.success("🪄 Backup restored successfully!")
+        st.experimental_rerun()
+    except Exception as e:
+        st.error(f"❌ Failed to restore from backup: {e}")
+
+
 st.markdown("### 📈 Stats")
 col1, col2, col3 = st.columns(3)
 col1.metric("Total Companies", len(df))

@@ -8,7 +8,7 @@ import os
 import json
 import time
 
-from config import YC_SELECTORS
+from .config import YC_SELECTORS
 
 
 BASE_URL = "https://www.ycombinator.com/companies?batch=Summer%202025"
