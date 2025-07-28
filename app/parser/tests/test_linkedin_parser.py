@@ -24,7 +24,9 @@ class TestLinkedInParser(unittest.TestCase):
         mock_resp.text = self.mock_html
         mock_get.return_value = mock_resp
 
-        matched, match_info = linkedin_parser.linkedin_check_yc_mention(self.linkedin_url)
+        matched, match_info = linkedin_parser.linkedin_check_yc_mention(
+            self.linkedin_url
+        )
 
         self.assertTrue(matched)
         self.assertIn("location", match_info)
@@ -38,7 +40,9 @@ class TestLinkedInParser(unittest.TestCase):
         mock_resp.text = "<html><body><h1>Random Company</h1></body></html>"
         mock_get.return_value = mock_resp
 
-        matched, match_info = linkedin_parser.linkedin_check_yc_mention(self.linkedin_url)
+        matched, match_info = linkedin_parser.linkedin_check_yc_mention(
+            self.linkedin_url
+        )
 
         self.assertFalse(matched)
         self.assertIsNone(match_info)

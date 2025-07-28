@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import json
 
-from .config import LINKEDIN_SELECTORS, HEADERS, YC_TAGS, S25_TAGS
+from config import LINKEDIN_SELECTORS, HEADERS, YC_TAGS, S25_TAGS
 
 
 def linkedin_check_yc_mention(linkedin_url):
