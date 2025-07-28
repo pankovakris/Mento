@@ -1,0 +1,1192 @@
+[
+  {
+    "name": "Nox Metals",
+    "description": "Nox Metals is building the fastest processing metals factory in North America. Our software runs quoting, scheduling, and operations to streamline production and reduce cost. We supply CNC shops with custom-cut material at unmatched speed and efficiency.",
+    "website": "https://noxmetals.co/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/nox-metals",
+    "linkedin_url": "https://www.linkedin.com/company/nox-metals-inc/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "nox metals (yc s25)"
+    }
+  },
+  {
+    "name": "Uplift AI",
+    "description": "We build speech understanding and speech generation models for the five major languages spoken in Pakistan, where 42% of the adult population can not read any language. \n\nPakistan is the 5th most populous country in the world with a $411 billion GDP. Yet its overlooked and no practical voice models exist for the local languages.\n\nWith our APIs and SDKs, businesses offer high-quality voice interfaces in domains like banking, agriculture, healthcare, and government services. This enables them to finally offer digital services to every customer -- often for the first time.\n\nOur founding team has a decade of experience building world-leading voice products, including at Alexa and Siri. We have launched entire AWS services; and software written by us previously is used by millions daily.\n\nWe do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.\n\nWe are on a mission to uplift entire nations through better access to digital information and digital services.",
+    "website": "https://upliftai.org/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/uplift-ai",
+    "linkedin_url": "https://www.linkedin.com/company/upliftai/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "RealRoots",
+    "description": "RealRoots is a mobile app that guarantees women lifelong friendships. After a quick 10-minute survey, we match each user with compatible friends nearby. From there, our AI assistant plans thoughtful, recurring hangs - so her social calendar stays full of meaningful connection.",
+    "website": "http://www.therealroots.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/realroots",
+    "linkedin_url": "https://www.linkedin.com/company/therealroots/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Luminal",
+    "description": "Luminal builds an ML framework and compiler that generates GPU code.\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\n\nGithub: https://github.com/jafioti/luminal\nDiscord: https://discord.gg/2Mxur3CgYT",
+    "website": "https://luminalai.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/luminal",
+    "linkedin_url": "https://www.linkedin.com/company/luminalai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "luminal (yc s25)"
+    }
+  },
+  {
+    "name": "Outrove",
+    "description": "Outrove is the world’s most realistic AI recruiter, with a human-appearing interview agent that has both video and audio and can join Google Meet calls.",
+    "website": "https://www.outrove.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/outrove",
+    "linkedin_url": "https://www.linkedin.com/company/107008012/admin/dashboard/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Vulcan Technologies",
+    "description": "Vulcan primarily offers two different AI services for two different constituencies:\n1) Automatic regulatory drafting for executive branch agencies in government and \n2) Regulatory compliance and comment for industry\nBeneath these tools is a proprietary system that we call \"intelligent legal cartography,\" an automatic mapping of relationships between statutes, regulations, and case law. In short: Vulcan equips agencies to comply with changing state and federal law, and enables business to comment, contest, and comply with regulatory requirements.",
+    "website": "https://www.vulcan-tech.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/vulcan-technologies",
+    "linkedin_url": null,
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Interfere",
+    "description": "",
+    "website": "https://interfere.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/interfere",
+    "linkedin_url": "http://linkedin.com/company/interfere-inc",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "interfere (yc s25)"
+    }
+  },
+  {
+    "name": "TectoAI",
+    "description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployement, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees!",
+    "website": "https://www.tecto.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/tectoai",
+    "linkedin_url": "https://www.linkedin.com/company/tectoai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "tectoai (yc s25)"
+    }
+  },
+  {
+    "name": "Perspectives Health",
+    "description": "",
+    "website": "https://perspectiveshealth.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/perspectives-health",
+    "linkedin_url": "https://www.linkedin.com/company/perspectives-health/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "perspectives health (yc s25)"
+    }
+  },
+  {
+    "name": "Modelence",
+    "description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\n\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\n\nModelence is a batteries-included framework that abstracts away boilerplate so you can just focus on building your product logic and nothing else - it’s like Next.js + Vercel + Supabase on a single platform, built for full-stack TypeScript.\n\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\n- Authentication\n- Database setup\n- Hosting / CDN\n- AI integration (LLM observability, prompts)\n- Real-time events\n- Cron jobs\n- Email service\n- Monitoring\n- Analytics\n- Admin dashboards\n\nAndrej Karpathy recently posted about this same exact problem:\nhttps://x.com/karpathy/status/1905051558783418370\n\nand explained it further in his YC AI Startup School talk:\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
+    "website": "https://modelence.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/modelence",
+    "linkedin_url": "https://www.linkedin.com/company/modelence",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "modelence (yc s25)"
+    }
+  },
+  {
+    "name": "Magnetic",
+    "description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \n\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\n\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\n\nWe launched this year in the middle of tax season and quickly processed hundreds of returns, earning thousands in ARR, and since tax season we've been growing customers by >30% month-over-month. We've completely automated over 25% of the return process so far and developed a proprietary vision model that beats incumbent scanning technology by almost 2x on accuracy - jumping from 50% field-level accuracy to 89%, approaching the quality of their expensive human-verified service at 92%.\n\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\n\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
+    "website": "https://www.magnetictax.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/magnetic",
+    "linkedin_url": "https://www.linkedin.com/company/magnetictax",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "stagewise",
+    "description": "stagewise is the first frontend coding agent for existing production-grade web apps. It lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project.\n\nOur agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\n\nWe're two founders from Germany who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\n\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\n\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
+    "website": "https://stagewise.io/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/stagewise",
+    "linkedin_url": "https://www.linkedin.com/company/stagewise-io",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "stagewise (yc s25)"
+    }
+  },
+  {
+    "name": "Flywheel AI",
+    "description": "Flywheel AI converts any existing excavators for contractors to enable remote ops to increase safety and productivity, and use robotics context dataset to train autonomous policies.",
+    "website": "https://useflywheel.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/flywheel-ai",
+    "linkedin_url": "https://www.linkedin.com/company/flywheelrobotic",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Juxta",
+    "description": "Juxta is creating the first Universal Positioning System (UPS) — a GPS alternative that can monitor movement anywhere on earth with no new hardware, minimal internet connection, and remote deployment. Using custom machine learning models and a first-of-its-kind synthetic fingerprinting technology, Juxta can make any indoor, outdoor, or underground space location-aware in minutes for a fraction of the cost of any other geospatial technology.\n\nJuxta's UPS can be leveraged across industries — from securely tracking soldiers in combat zones to providing offline positioning for robots to offering asset tracking in warehouses and ports around the globe.",
+    "website": "https://usejuxta.org/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/juxta",
+    "linkedin_url": "https://www.linkedin.com/company/use-juxta/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Okibi",
+    "description": "Whether you're building an internal workflow automation to remove repetitive or time consuming tasks, or launching your own product with Agents, Okibi can help you build it.\n\nBuilding AI agents typically requires complex, time-consuming setup, including tool calling, LLM syntax management, multi-agent orchestration, browser use, evals, and hosting deployments.\n\nOur web app provides a chat interface and toolkit to easily create agents. Just describe your agent in natural language, similar to vibecoding, and our app automatically generates your agent's architecture, tool calls, human in the loop, browser user, and runs evals on your agent.\n\nThis approach significantly reduces development complexity and time.",
+    "website": "https://okibi.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/okibi",
+    "linkedin_url": "https://www.linkedin.com/company/okibi-ai",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "dScribe AI",
+    "description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\n\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\n\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\n\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.",
+    "website": "https://dscribeai.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/dscribe-ai",
+    "linkedin_url": "https://www.linkedin.com/company/dscribeai/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "dscribe ai (yc s25)"
+    }
+  },
+  {
+    "name": "Kernel",
+    "description": "Kernel is the best place in the world to launch web agents and browser automations. We handle the hard parts of running browser infrastructure in the cloud so you don’t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, replays, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud, so you can focus on your core product logic rather than the infra underneath.\n\nOur customers use Kernel to launch QA agents, vertical-specific agents that automate back office processes, and more.\n\nWe're open source, HIPAA-compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework (Playwright, Puppeteer, CUA, Browser Use, Magnitude, etc). Check us out —> https://github.com/onkernel/kernel-images",
+    "website": "https://www.onkernel.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/kernel",
+    "linkedin_url": "https://www.linkedin.com/company/onkernel",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Reacher",
+    "description": "Reacher automates affiliate marketing for enterprise brands, replacing teams of 5+ people with AI-powered creator discovery, outreach, and management. \n\nTrusted by brands driving $20M+ in GMV, we're building the largest marketplace where creators access premium deals guided by an AI talent manager, while brands access our vetted network of top creators.",
+    "website": "https://reacherapp.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/reacher",
+    "linkedin_url": "https://www.linkedin.com/company/reacherapp",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Certus AI",
+    "description": "Certus AI is replacing the restaurant phone line with Voice AI.\n\nRestaurants lose up to $100,000 per year per location from missed calls, lost orders, and abandoned hold lines. Staff are overwhelmed. IVRs frustrate customers. Call centers are expensive and impersonal.\n\nIt’s 2025. Guests don’t leave voicemails or wait on hold. They just move on.\n\nCertus is an AI voice agent built for restaurants. It answers every call, 24/7 — taking orders, processing deliveries, booking reservations, upselling, and handling complaints in English, Spanish, French and more. Certus is built to manage the phone line end to end, from the customer call to the restaurant tech stack, with zero human intervention required. It currently integrates with industry-leading systems like Toast, Square, Clover, UberEats, DoorDash, and more.\n\nWe’re building the voice layer of the modern restaurant — the employee they’ll never fire.\n\nWe started Certus because we lived the pain. Gurveer (CEO) grew up answering phones in his family’s restaurant and helped operate them, growing from 1 to 11 locations in 7 years. Later, he and Adam (CRO) ran a restaurant growth startup to help others increase revenue, but kept watching clients bleed cash because no one picked up the phone. So we built the solution the industry always wished existed.\n\nUntil now, this problem was considered unsolvable. But Voice AI has finally crossed the conversational chasm and 72% of consumers now prefer AI over humans as long as it means faster and better service.\n\nMore importantly, the market is begging for this. The North American restaurant industry crossed $1 trillion in 2024, and it's projected to hit $1.5 trillion in 2025. Yet over $100 billion is still lost annually to missed calls, human error, and outdated tech. As the market continues to grow, so do the losses!\n\nOur customers say it best:\n\n- “Certus changed my life overnight.”\n- “We were losing the ability to give great in-house service — the phone was killing us.”\n- “70% of my business comes through the phone. That’s mine and my 16 staffs livelihood.”\n- “Before Certus, I used to lose 40 - 60 calls a day…. now my printer just stays printing!”\n- “I’ve been in the business 38 years. I’ve been waiting for this since then.”\n\nCertus is here to fix the $120B phone problem — one call at a time.\n\nAnd in doing so, we’re redefining how the restaurant industry communicates forever, starting with the phone line.",
+    "website": "https://www.certus-ai.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/certus-ai",
+    "linkedin_url": "https://www.linkedin.com/company/104576510/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Hera",
+    "description": "Hera is an AI motion designer that turns 5-hour projects into 5-minute tasks. \n\nWhen you're a YouTuber making an infographic animation, instead of spending hours manually clicking buttons in Adobe After Effects, you can create the same animation in minutes in Hera. \n\nThrough talking to our users, we realized that 95% of time spent on motion graphics is manual button clicking, not creative work. This insight led us to focus on automating the tedious parts while giving the user all creative control.\n\nWe launched in May 2025, got 100k waitlist signups in 8 weeks, and we're doubling revenue monthly.",
+    "website": "https://hera.video/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/hera-video",
+    "linkedin_url": "https://www.linkedin.com/company/heravideo",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "hera (yc s25)"
+    }
+  },
+  {
+    "name": "Nottelabs",
+    "description": "Nottelabs designs browsers using agents for enterprise. Focused on reliability and scalability, we convert websites into structured text APIs to power LLM-driven web scraping and workflow automation, with full support for stealth, vaults, and enterprise tooling.",
+    "website": "https://www.notte.cc/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/nottelabs",
+    "linkedin_url": "https://www.linkedin.com/company/nottelabsinc/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Pally",
+    "description": "Hey 👋, we’re Haz and Wyatt, the founders of Pally, and we’re building at the intersection of AI and Human Relationships. \n\nWe believe that while AI will automate a lot of low-level tasks, that this will dramatically increase the value of human connection at the highest level.\n\nIn a world full of ‘AI SDRs’, our warm connections become more important than ever. \n\nYet today, keeping track of thousands of connections across countless social platforms is impossible. We forget to respond, we miss important moments, we lose touch. \n\nWe’re building Pally to solve that. \n\nWe bring together every connection, across every platform. Our AI researches everything they’ve ever posted online, and uses its deep understanding of each person to help you achieve your goals; whether hiring, fundraising, or sales.",
+    "website": "https://pally.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/pally",
+    "linkedin_url": "https://www.linkedin.com/company/pallyai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "pally (yc s25)"
+    }
+  },
+  {
+    "name": "Locata",
+    "description": "Locata is an AI referral management platform for Primary Care practices. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\n\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\n\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\n\nIn just three weeks, we’ve secured $80K ARR and are in the process of taking our first customer live.",
+    "website": "https://www.locatahealth.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/locata",
+    "linkedin_url": null,
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Convexia",
+    "description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\n\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silico.\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\nBD Agent: Summarizes and delivers company-tailored pitches. \n\nBuilt by 2 Stanford CS students who have built 3 startups together before.",
+    "website": "https://convexia.bio/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/convexia",
+    "linkedin_url": "https://www.linkedin.com/company/convexia-bio",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "convexia (yc s25)"
+    }
+  },
+  {
+    "name": "SigmanticAI",
+    "description": "SigmanticAI is building an AI-native hardware development assistant that automates the entire RTL design flow, from natural language to synthesizable HDL and testbenches, inside a seamless VSCode fork. Powered by fine-tuned Verilog LLMs, reinforcement learning, and real compiler feedback, SigmanticAI iteratively refines code until it compiles and passes synthesis, no matter how complex the design. It’s like the Cursor for HDL design. \n\nIn addition to code generation, SigmanticAI can generate token-level annotations and onboarding documents to accelerate ramp-up for new engineers. With support for both cloud and on-prem deployment, it integrates with existing EDA tools to dramatically reduce debug time, improve collaboration, and accelerate hardware design across teams",
+    "website": "https://www.sigmanticai.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/sigmanticai",
+    "linkedin_url": "https://www.linkedin.com/company/sigmanticai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "sigmanticai (ycs25)"
+    }
+  },
+  {
+    "name": "Sira",
+    "description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.\n\nOur intelligent agents handle the manual, time-consuming tasks for you — like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\n\nWith Sira, businesses stay organized, compliant, and focused on what really matters — while we take care of the team.",
+    "website": "https://sira.team/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/sira",
+    "linkedin_url": null,
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "F4",
+    "description": "Built by former Tesla & SpaceX engineers, F4 is a platform that helps you catch and fix drawing compliance issues instantly. F4 ensures design engineers never release noncompliant drawings—and suppliers never misinterpret them. We help hardware teams eliminate costly scrap, rework, and miscommunication at the root.\n\nWith a compliant drawing, F4 generates end-to-end drawing interpretations for standard definitions, inspection plan, and tolerance analysis application.\n\nF4 automatically interprets all GD&T symbols, datums, and notes based on the correct standards - no more second-guessing or misreading intent. Everyone from design to manufacturing sees the same definition, keeping teams aligned and avoiding costly miscommunication.\n\nF4 generates a complete inspection plan straight from the drawing, so quality teams know exactly what to measure, how, and where. This eliminates manual setup, reduces delays during first article inspection, and helps catch issues before they reach production.\n\nF4 gives engineers everything they need from the drawing to set up a reliable tolerance analysis, including the critical stack-up paths, applicable features, and rule exceptions. By making it easy to bridge engineering drawings to tolerance analysis, teams can catch potential fit or function issues early - before parts are fabricated and assembled.",
+    "website": "https://f4.dev/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/f4",
+    "linkedin_url": "https://www.linkedin.com/company/f4-industries/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "f4 industries (yc s25)"
+    }
+  },
+  {
+    "name": "Altur",
+    "description": "",
+    "website": "https://altur.io/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/altur",
+    "linkedin_url": "https://www.linkedin.com/company/alturio",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "altur (yc s25)"
+    }
+  },
+  {
+    "name": "PARES AI",
+    "description": "PARES is the single platform commercial real estate brokers need for their entire workflow, from chasing leads to closing deals and everything in between. \n\nWith our platform, brokers can:\n\n1) Automatically update real-time transaction data in our CRM\n\n2) Create lists of target properties, skip-trace, and easily navigate outbound calls\n\n3) Underwrite deals with our AI Underwriting Agent\n\n4) Create OMs/BOVs in minutes with our AI Marketing Agent\n\nCheck us out at https://www.pares.ai/",
+    "website": "https://www.pares.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/pares-ai",
+    "linkedin_url": "https://www.linkedin.com/company/pares-ai/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "pares (yc s25)"
+    }
+  },
+  {
+    "name": "Humoniq",
+    "description": "Humoniq is building voice AI agents to handle customer support for travel companies, such as airlines.\n\nOur team is uniquely equipped to solve this challenge. We grew a travel management company, Flightfox (YC S12), to over $20M in annual sales while handling thousands of customer support requests.\n\nOur mission now is to make customer support in travel the fastest and most helpful of any industry. We already have major travel companies signed and a rapidly growing deal pipeline.",
+    "website": "https://humoniq.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/humoniq",
+    "linkedin_url": "https://www.linkedin.com/company/humoniq",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "humoniq (yc s25)"
+    }
+  },
+  {
+    "name": "Idler",
+    "description": "",
+    "website": "https://idler.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/idler",
+    "linkedin_url": "https://www.linkedin.com/company/idler/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "idler (yc s25)"
+    }
+  },
+  {
+    "name": "Observee",
+    "description": "All AI Agents rely on external integrations to become truly useful. Our software provides any AI Agent developer with access to over 1,000 MCP integrations through a single API. \n\nIn the last 6 months, MCP has become the official protocol for connecting AI agents to the outside world. Observee provides developers with Authentication, Observability and Security in one hosted MCP. \n\nAs AI Agents increasingly take on more manual jobs, they will rely on Observee for underlying infrastructure.",
+    "website": "https://observee.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/observee",
+    "linkedin_url": "https://www.linkedin.com/company/observee/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "short_desc",
+      "snippet": "mcps for enterprise (yc s25)"
+    }
+  },
+  {
+    "name": "Socratix AI",
+    "description": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\n\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \n\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\n\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk.\n\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution.",
+    "website": "https://getsocratix.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/socratix-ai",
+    "linkedin_url": "https://www.linkedin.com/company/socratix-ai/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "socratix ai (yc s25)"
+    }
+  },
+  {
+    "name": "Omnara",
+    "description": "As AI agents handle longer, more complex tasks, human oversight becomes critical. Omnara provides the human-in-the-loop infrastructure to make autonomous agents reliable.\n\nOur platform lets users and teams manage AI agents through a unified dashboard. When agents face uncertainty, hit roadblocks, or need permissions that require human judgment, they pause and request guidance, ensuring workflows stay on track. Any agent can integrate, e.g. Claude Code, n8n workflows, or custom builds.",
+    "website": "https://omnara.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/omnara",
+    "linkedin_url": "https://www.linkedin.com/company/omnara",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "omnara (yc s25)"
+    }
+  },
+  {
+    "name": "Autosana",
+    "description": "A cloud-based tool for mobile teams to run natural language end-to-end tests. Eradicates the need to write/maintain E2E tests and manual testing. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\n\nNo code, no setup, just catching bugs before users do.",
+    "website": "https://autosana.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/autosana",
+    "linkedin_url": "https://www.linkedin.com/company/autosana/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "autosana (yc s25)"
+    }
+  },
+  {
+    "name": "April",
+    "description": "April is a voice powered AI assistant that manages your email and calendar hands-free - helping you reach inbox zero and stay on top of your schedule without looking at a screen.",
+    "website": "https://tryapril.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/april",
+    "linkedin_url": "https://www.linkedin.com/company/tryapril",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "april (yc s25)"
+    }
+  },
+  {
+    "name": "Finto",
+    "description": "Finto automates accounting for enterprises. With agents, we double an accountant's productivity in handling accounts payable - from invoice verification and supplier communication to account assignment, approval workflows, and ERP postings, all in one streamlined step.",
+    "website": "https://www.gofinto.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/finto-de",
+    "linkedin_url": "https://www.linkedin.com/company/fintoai/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "finto (yc s25)"
+    }
+  },
+  {
+    "name": "Motives",
+    "description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks.",
+    "website": "https://motives.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/motives",
+    "linkedin_url": "https://www.linkedin.com/company/96694490/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "mcp-use",
+    "description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \nOur library has over 100,000 downloads and 4,000 stars, and is used by hundreds of engineers at big enterprises.\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "website": "https://mcp-use.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/mcp-use",
+    "linkedin_url": "https://www.linkedin.com/company/mcp-use/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "mcp-use (yc s25)"
+    }
+  },
+  {
+    "name": "Novaflow",
+    "description": "Novaflow is an AI data analyst for biology labs. \n--\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months.",
+    "website": "https://www.novaflowapp.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/novaflow",
+    "linkedin_url": "https://www.linkedin.com/company/novaflow-ai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "novaflow (yc s25)"
+    }
+  },
+  {
+    "name": "Perseus Defense",
+    "description": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our micro-guided missile system is man-portable, multi-domain capable, and has both forward-deployed and low-collateral defeat variants. It senses, engages, and eliminates threats with drastically reduced cost per engagement. \n\nSolving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued a PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \n\n\"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer\n\nThe White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. \n\nTraction: \nA UAS prototype was designed and built in one week and a prototype of the guided missile was prototyped in four days. Following the Stanford Hacking for Defense process that Perseus Defense adviser and former Army Ranger Dr. Jeff Decker wrote the book on, Jason and Steve used 60 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. Perseus has already been invited to a Phase-II in-person pitch of their solution to government end-users, signaling progress towards contract opportunities.",
+    "website": "https://perseusdefense.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/perseus-defense",
+    "linkedin_url": "https://www.linkedin.com/company/perseusdefense",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "perseus defense (yc s25)"
+    }
+  },
+  {
+    "name": "Phases",
+    "description": "We’re building the first full-stack AI agent company to automate clinical trials for pharma companies.",
+    "website": "https://phases.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/phases",
+    "linkedin_url": "https://www.linkedin.com/company/phases-ai/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "phases (yc s25)"
+    }
+  },
+  {
+    "name": "Summon",
+    "description": "Summon is the complete end-to-end MCP platform. We're building the pipes connecting context to client applications for the agent economy. \n\nSummon transforms MCP development from a fragmented, manual process into an AI-first, collaborative workflow. We build MCP servers from OpenAPI specs using our AI agent, provide debugging playgrounds, run continuous evaluations against different LLMs, and offer enterprise hosting with observability. This creates a complete virtuous loop where AI builds, maintains, and improves MCP integrations, accelerating time-to-market, reducing bugs, and aligning developers, QA, and product teams.\n\nWith MCP gaining adoption across ChatGPT, Claude, and Microsoft Copilot, companies need agent-accessible APIs to remain competitive.",
+    "website": "https://trysummon.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/summon",
+    "linkedin_url": "https://linkedin.com/company/trysummon",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Riff",
+    "description": "Riff is a super powered music editor where experienced producers can be dramatically more productive and hobbyists can delight in music without needing technical chops.\n\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
+    "website": "https://goriff.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/riff",
+    "linkedin_url": "https://www.linkedin.com/company/riffmusic",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "riff (yc s25)"
+    }
+  },
+  {
+    "name": "Mohi",
+    "description": "We help people understand their agent workflows and where they went wrong.\n\nWe met early on at MIT and built a bunch of projects together for fun. Of course when the AI wave took over, we were excited about agents. We made our own agents, and we always found it annoying figuring out if they consistently worked or not.\n\nWe believe that it should be easy to know what your agents are doing and why, no matter the use case or the tech stack. So that's exactly what we're helping companies achieve; we started building a few weeks ago and are working with our design partner to get deep observability and insights into their agent executions.\n\nThe future is autonomous; AI agents will be everywhere. Mohi can make sure that we humans know what these agents are doing.",
+    "website": "https://trymohi.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/mohi",
+    "linkedin_url": "https://www.linkedin.com/company/mohi-inc",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Mimos",
+    "description": "Mimos is an Answer Engine Optimization (AEO) platform designed for regulated experts, starting with Registered Investment Advisors (RIAs). \n\nWe help highly-regulated companies get discovered and trusted on AI platforms like ChatGPT and Gemini, driving qualified inbound while staying compliant.\n\n===\n\nRohit & Mike have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.",
+    "website": "https://www.mimos-ai.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/mimos",
+    "linkedin_url": "https://www.linkedin.com/company/mimos-aeo/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "mimos (yc s25)"
+    }
+  },
+  {
+    "name": "Nozomio",
+    "description": "Nozomio is a product lab building engineers for the age of AI.\n\nAs coding agents become ubiquitous, the real bottleneck shifts from “write code” to “know which code and docs to feed them.” Starting with the tool named Nia, the mission is to provide context enrichment through agentic research and indexing of any external codebase(-s) or documentation via MCP / API.\n\nNozomio started with Arlan's early frustration with the agentic coding ecosystem, especially around context and memory. After winning Product of the Day in February and raising pre-seed, Arlan moved to London and then to SF as a solo immigrant from Kazakhstan to build the future of software engineering. \n\ntry nia at trynia .ai <3",
+    "website": "https://www.nozomio.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/nozomio",
+    "linkedin_url": "https://www.linkedin.com/company/nozomiolabs/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "VibeFlow",
+    "description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
+    "website": "https://vibeflow.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/vibeflow",
+    "linkedin_url": "https://www.linkedin.com/company/vibeflowai/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "vibeflow (yc s25)"
+    }
+  },
+  {
+    "name": "Comena",
+    "description": "We build AI agents that automate order processing for industrial distributors and manufacturers. Say goodbye to inside sales teams spending hours on manual data entry. Comena streamlines order and quote entry, from inbox to ERP, freeing up sales teams to focus on high-value activities and proactive selling.",
+    "website": "https://comena.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/comena",
+    "linkedin_url": "https://www.linkedin.com/company/comena-ai",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "GhostEye",
+    "description": "GhostEye offers offensive AI agents that generate sophisticated social engineering campaigns across a multitude of attack vectors.\n\nLeveraging natural language prompts, GhostEye creates personalized campaigns in seconds, in what used to take hours.",
+    "website": "https://ghosteye.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/ghosteye",
+    "linkedin_url": "https://www.linkedin.com/company/ghosteye-ai/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Channel3",
+    "description": "Channel3 is building a database of every product on the internet.\n\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\n\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\n\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\n\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+    "website": "https://trychannel3.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/channel3",
+    "linkedin_url": "https://www.linkedin.com/company/channel3-ai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "channel3 (yc s25)"
+    }
+  },
+  {
+    "name": "Wisp AI",
+    "description": "Wisp AI is the executive assistant for everyone — not just CEOs. It manages your calendar, drafts emails, summarizes meetings and notes, and handles your to-dos and reminders. Built for small business owners and busy employees, Wisp saves hours every week by automating admin work — all for a fraction of the cost of a human assistant.",
+    "website": "https://wispai.app/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/wisp-ai",
+    "linkedin_url": null,
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Embedder",
+    "description": "Embedder is building the first hardware-aware coding agent.",
+    "website": "https://www.embedder.dev/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/embedder",
+    "linkedin_url": "https://www.linkedin.com/company/embedder-dev",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "embedder (yc s25)"
+    }
+  },
+  {
+    "name": "Flai",
+    "description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\n\nWe built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away.\n\nThe result: No more missed opportunities, no more losing customers to competitors.\n\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\n\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
+    "website": "https://www.useflai.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/flai",
+    "linkedin_url": "https://www.linkedin.com/company/useflai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "flai (yc s25)"
+    }
+  },
+  {
+    "name": "b-12",
+    "description": "At B-12, we are developing AI agents for automated workflows in chemistry and pharma R&D, as a way of manifesting chemical super intelligence (CSI) in the physical world. We are preparing for the next wave of physical AI, specializing in chemistry.\n\nOur long-term goal is to create autonomous labs that can plan and perform complex, multistep syntheses with minimal human intervention.",
+    "website": "https://b12-labs.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/b-12",
+    "linkedin_url": "https://www.linkedin.com/company/108178057/admin/dashboard/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Parachute",
+    "description": "Parachute is the AI Quality Assurance Lab for hospitals — end-to-end governance that lets clinical AI move from inception to implementation with confidence. We pre-vet vendors, enforce compliance, track every model in real time, and preserve an immutable audit log that stands up to regulators and litigators, enabling safe, scalable AI in healthcare.",
+    "website": "https://parachute-ai.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/parachute",
+    "linkedin_url": null,
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "BootLoop",
+    "description": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
+    "website": "https://bootloop.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/bootloop",
+    "linkedin_url": null,
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "AgentHub",
+    "description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\n\nOur RL simulation engine lets you test, trace, and evaluate agentic workflows using curated and synthetic test cases. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\n\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\n\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\n\nClose the feedback loop and build better agents, faster - with confidence.",
+    "website": "https://www.agenthub.build/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/agenthub-2",
+    "linkedin_url": "https://www.linkedin.com/company/agenthub-inc/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "short_desc",
+      "snippet": "build better ai agents, faster. (yc s25)"
+    }
+  },
+  {
+    "name": "Dash",
+    "description": "Dash is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \n\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
+    "website": "https://www.usedash.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/dash",
+    "linkedin_url": "https://www.linkedin.com/company/usedashai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "dash (yc s25)"
+    }
+  },
+  {
+    "name": "CareSwift",
+    "description": "Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials.",
+    "website": "https://www.careswift.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/careswift",
+    "linkedin_url": "https://www.linkedin.com/company/careswift",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "careswift (yc s25)"
+    }
+  },
+  {
+    "name": "Pangolin",
+    "description": "Pangolin provides a simple way to securely expose applications on private networks with identity-aware access control and high availability. It’s an open-source cloud and self-hosted solution that enables administrators to maintain data sovereignty and control user interaction to internal tools.",
+    "website": "https://digpangolin.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/pangolin",
+    "linkedin_url": "https://www.linkedin.com/company/digpangolin",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "pangolin (yc s25)"
+    }
+  },
+  {
+    "name": "Kestroll",
+    "description": "Kestroll is the AI-powered media asset management platform.\n\nKestroll automatically ingests, labels, and organizes all of your company's media assets (photos, audio, and especially videos) and provides a central interface for the entire organization to access and distribute content.\n\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\n\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling.",
+    "website": "https://www.kestroll.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/kestroll",
+    "linkedin_url": "https://www.linkedin.com/company/gamehawk/",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Stockline",
+    "description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\n\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\nThis leads to mistakes, tight margins, and food waste.\n\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\n\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
+    "website": "https://stockline.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/stockline",
+    "linkedin_url": "https://www.linkedin.com/company/stocklineai/",
+    "linkedin_mentions_s25": false,
+    "linkedin_match": null
+  },
+  {
+    "name": "Magnitude",
+    "description": "Knowledge workers spend 85% of their day in the browser.\n\nYet so much of this work is tedious, time-consuming labor.\n\nAI has revolutionized browser automation - but it's trapped behind APIs, SDKs, and complex interfaces. Tools like UIPath and Zapier tried to help, but they're still too technical, expensive, or complicated.\n\nWhat if automating your repetitive browser work was as easy as explaining it to a coworker?\n\nThat’s Magnitude. Simply record yourself taking actions on your browser, talk through the details, and our AI builds your automation. Run it instantly or schedule it - no maintenance required.",
+    "website": "https://magnitude.run/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/magnitude",
+    "linkedin_url": "https://www.linkedin.com/company/magnitude-ai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "magnitude (yc s25)"
+    }
+  },
+  {
+    "name": "DeepGrove",
+    "description": "Developing the next suite of 1-bit foundation models that can run on edge devices.",
+    "website": "https://",
+    "yc_profile_url": "https://www.ycombinator.com/companies/deepgrove",
+    "linkedin_url": null,
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Skope",
+    "description": "We’re taking a new approach to the legacy billing system, for AI-native companies. On top of normal pricing models, Skope allows companies to create a new stream of revenue by capturing a portion of the value their agents create through “outcome-based pricing\".",
+    "website": "https://useskope.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/skope",
+    "linkedin_url": "https://www.linkedin.com/company/useskope/",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "skope (yc s25)"
+    }
+  },
+  {
+    "name": "Alter AI",
+    "description": "",
+    "website": "https://alterai.dev/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/alter-ai",
+    "linkedin_url": "https://www.linkedin.com/company/alterai-dev",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "alter ai (yc s25)"
+    }
+  },
+  {
+    "name": "Imprezia",
+    "description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
+    "website": "https://imprezia.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/imprezia",
+    "linkedin_url": "https://www.linkedin.com/company/imprezia-ai/",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Janet AI",
+    "description": "Big companies are drowning in Jira tickets. They get hundreds if not thousands of reported issues monthly—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\n\nJanet AI is the AI-native ticket triage and management layer for Jira.\n\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it surfaces duplicate or related issues, auto-detects fixes mentioned in these related tickets, and identifies those that matter most.\n\nBecause the data’s structured, useful questions become instantly answerable using the Janet AI Chat Agent's contextual intelligence. “What are the highest priority login bugs hitting enterprise customers running version X?” “How should I fix issue PROJ-123?” “What are the most critical issues related to PROJ-456 and how should I prioritize these?”\n\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\n\nInterested? Check out our tryjanet.ai to watch our demo, book a call, and get started with a free Proof of Concept on your Jira tickets!",
+    "website": "https://tryjanet.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/tryjanet",
+    "linkedin_url": "https://www.linkedin.com/company/janet-ai/",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Cyberdesk",
+    "description": "Cyberdesk is the computer use agent for Windows apps. Top YC startups in healthcare, finance, and more are using our agent to automate data entry and extraction from EHRs, ERPs, and other legacy Windows software. \n\nUnder the hood, our intelligent caching system makes automations run deterministically when in the happy path, and with 95% cheaper cost and ~5x speed improvement over computer use. But our system still falls back to computer use in anomalies / edge cases, for extra reliability and safety.\n\nWe’d love to talk with you!\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+    "website": "https://www.cyberdesk.io/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/cyberdesk",
+    "linkedin_url": "https://www.linkedin.com/company/cyberdeskhq",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Herdora",
+    "description": "We built Herdora for every team that can't afford a GPU optimization expert. Herdora takes your janky PyTorch, writes optimized kernels for it in seconds, and keeps them tuned in production. It monitors your inference workloads, catches inefficiencies, and fixes them automatically. You keep shipping fast. Herdora makes it run fast. No CUDA knowledge required.",
+    "website": "https://www.herdora.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/herdora",
+    "linkedin_url": "https://www.linkedin.com/company/herdora-ai",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Orange Slice",
+    "description": "Orange Slice uses AI agents to crawl the internet for signals/firmographic data that help sales teams find high-intent prospects by continuously monitoring the internet for buying signals and firmographic changes.\n\nOur agents scan millions of data sources - including company websites, news articles, job postings, press releases, and social media - to detect meaningful events such as leadership changes, product launches, funding rounds, hiring trends, and more. These insights are transformed into actionable sales signals that indicate a company’s likelihood to purchase your product.\n\nWith Orange Slice, revenue teams can prioritize outreach, personalize messaging, and dramatically improve conversion rates by engaging the right accounts at the right time - based on what’s actually happening, not just static firmographics.",
+    "website": "https://orangeslice.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/orange-slice",
+    "linkedin_url": "https://www.linkedin.com/company/orange-sliceai/",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Monarcha",
+    "description": "Monarcha is an AI-powered geospatial platform that turns natural language into spatial analysis, styling, and workflows with no GIS expertise required. It connects to your data, understands context, and can runs 50+ spatial tools instantly on the map.",
+    "website": "https://monarcha.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/monarcha",
+    "linkedin_url": "https://www.linkedin.com/company/monarcha-ai/",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Sentinel",
+    "description": "Sentinel is your 24/7 on-call engineer which investigates, diagnoses and suggests resolutions for production issues. Sentinel helps teams reduce alert fatigue and downtime, saving engineers from firefighting so they can focus on building.",
+    "website": "https://yoursentinel.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/sentinel",
+    "linkedin_url": "https://www.linkedin.com/company/yoursentinel",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Verne Robotics",
+    "description": "We build AI software for robotic arms to learn new skills in hours. Our first customer is a unicorn biotech company that uses our robots to package chemical vials and icepacks.",
+    "website": "https://vernerobotics.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/verne-robotics",
+    "linkedin_url": "https://www.linkedin.com/company/vernerobotics",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Symbia",
+    "description": "We help biotechs and CROs generate high-quality IND reports in minutes with AI.",
+    "website": "https://symbiauto.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/symbia",
+    "linkedin_url": "https://www.linkedin.com/company/symbiauto",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Pond",
+    "description": "We’re building an AI-native messaging app. Pond is a desktop app you can use with your existing messaging services like iMessage (and soon WhatsApp + more). You can see important messages you haven’t replied to, snooze conversations, answer customers in your voice, and more.",
+    "website": "https://trypond.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/pond",
+    "linkedin_url": "https://www.linkedin.com/company/pondai/",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Golpo",
+    "description": "The world's best AI video generator that turns your documents and/or prompts into whiteboard explainer videos. In addition, we have a similar product that generates podcast-style audio explainers from your documents/prompts. API access available for both video and conversational audio. Product of Red Tree Inc.",
+    "website": "https://video.golpoai.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/golpo",
+    "linkedin_url": "https://www.linkedin.com/company/golpo-ai",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Async",
+    "description": "Async is a platform to manage a team of coding agents from anywhere.\nIt lets you issue tasks, then handles coding and testing in the background. Review results on mobile or desktop, preview changes in-app, run tasks in parallel, and move faster than ever before.\n\nOur mission is to do the work that you don't want to: bug fixes, UI tweaks, papercuts, and KTLO.\nDo what's important - delegate the rest to Async.",
+    "website": "https://www.async.build/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/async",
+    "linkedin_url": null,
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Lanesurf",
+    "description": "We help freight brokers book shipments with vetted carriers at the best price, by negotiating rates across multiple calls in parallel.",
+    "website": "https://www.lanesurf.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/lanesurf",
+    "linkedin_url": "https://www.linkedin.com/company/lane-surf/",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "truthsystems",
+    "description": "Truth Systems provides a compliance agent to govern the use of generative AI. It translates a firm's operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \n\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
+    "website": "https://www.truthsystems.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/truthsystems",
+    "linkedin_url": "https://www.linkedin.com/company/truth-systems-incoperated",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "AgentMail",
+    "description": "AgentMail is an email API that gives your agent its own inbox. Think of it like Gmail, but for AI Agents instead of humans.",
+    "website": "https://agentmail.to/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/agentmail",
+    "linkedin_url": "https://www.linkedin.com/company/agentmailto",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "TraceRoot.AI",
+    "description": "TraceRoot.AI is your agentic system for debugging production issues. It has access to logs, traces, source code, commit histories, PRs, issues, Notion, Slack, and more, helping you quickly investigate and resolve issues in complex systems. It visualizes a unified, structured view of your observability data and helps teams debug production issues in complex systems in no time.",
+    "website": "https://traceroot.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/traceroot-ai",
+    "linkedin_url": "https://www.linkedin.com/company/traceroot-ai",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Halluminate",
+    "description": "We help foundation model labs and enterprises train computer use AI agents with data and sandboxes.\n\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \n\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \n\n1) High quality datasets for benchmarking and evaluations\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \n\nHalluminate offers a suite of products and services to address both these issues. \n\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \n\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \n\nOur customers see\n- Improved browser- and computer-use agent performance\n- New and emergent frontier agent capabilities\n- Data driven prioritization leading to exponentially faster development speed\n- Increased revenue/sales via marketing from public benchmarks\n\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \n\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They’ve been working and studying together for 7+ years.",
+    "website": "https://halluminate.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/halluminate",
+    "linkedin_url": "https://www.linkedin.com/company/halluminate/?viewAsMember=true",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Acrely",
+    "description": "We provide residential real estate agents voice AI to maximize lead capture and outbound.\n\nMeet Jane, your AI-powered assistant. When someone calls your number and you don't pick up, Jane does. She talks to your leads, figures out what they need, and helps them — whether it's scheduling a showing, recommending listings, or just making sure serious buyers get a fast response.\n\nReal estate is one of the last few archaic industries that still uses phone calls as the crux of communication, and voice AI is just getting good enough to make humans willing to engage.\n\nReal estate is a industry of connections, without a clear break-in strategy, or without industry connections, attempting to pitch to a realtor is like finding a needle in a haystack, as they are already flooded with sales calls.\n\nRealtors plaster their phone numbers all over the internet, as well as all over the world and are flooded with unqualified leads, drowning out possible five-figure clients. By saving realtors qualified leads and providing the feeling of a human interaction, realtors save tens of thousands in missed opportunities.",
+    "website": "https://www.acrely.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/acrely",
+    "linkedin_url": "https://www.linkedin.com/company/acrely-ai/?viewAsMember=true",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Closera",
+    "description": "We're building AI employees for commercial real estate (CRE) brokerages that are better than today's best analysts.\n\nWe're starting by automating the workflows done by human brokers while marketing commercial properties (creating listings, staging properties, drafting offering memorandums, and more). We save them time and enable them to personalize materials, so they can do more deals, improve conversion rates, and make more money.\n\nWe see this as our wedge into the market as we work towards our vision of building a full-stack AI system that handles all the repetitive and time-consuming parts of a CRE broker’s job (and eventually in other industries as well). \n\nWe envision a future where people in the industry are free from making decks and doing grunt work, so they can focus on the parts of the job they love (or just have more free time for pickleball 🏓)!\n\nCurious? Check us out at closera.com",
+    "website": "https://closera.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/closera",
+    "linkedin_url": "https://www.linkedin.com/company/closera",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Synthetic Society",
+    "description": "",
+    "website": "https://syntheticsociety.ai/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/synthetic-society",
+    "linkedin_url": "https://www.linkedin.com/company/107848066",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Cactus",
+    "description": "Open-source inference engine for deploying AI locally on smartphones. Available in React-Native, Flutter, and C/C++. Supports multimodal models, text-to-speech, embedding models and more.\n\nRepo: https://github.com/cactus-compute/cactus\nDiscord: https://discord.gg/nPGWGxXSwr",
+    "website": "https://www.cactuscompute.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/cactus",
+    "linkedin_url": "https://www.linkedin.com/company/cactus-compute/",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Nixo",
+    "description": "",
+    "website": "https://withnixo.com/",
+    "yc_profile_url": "https://www.ycombinator.com/companies/nixo",
+    "linkedin_url": "https://www.linkedin.com/company/withnixo",
+    "linkedin_mentions_s25": null
+  },
+  {
+    "name": "Disclodocs (YC S25)",
+    "description": "Redefining the day-to-day of every real estate agent nationwide.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/disclodocs",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "disclodocs (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Qualify.bot (YC S25)",
+    "description": "Technology, Information and Internet",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/qualify-bot",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "qualify.bot (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Albacore Inc. (YC S25)",
+    "description": "Autonomous underwater vehcicles.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/albacore-inc",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "albacore inc. (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Wedge (YC S25)",
+    "description": "Revolutionizing Data.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/wedge-ai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "wedge (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Hyprnote (YC S25)",
+    "description": "Hyprnote is the world's most secure AI meeting note-taker. Fully on-device, open-source, and enterprise-ready.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/hyprnote",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "hyprnote (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Spotlight Realty (YC S25)",
+    "description": "Spotlight is New York's first AI-powered realtor. Instantly list your properties and cut your commissions from 6% to 1.5%.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/spotlight-realty-ai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "spotlight realty (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Paloma (YC S25)",
+    "description": "Paloma ingests your contracts, quotes and emails and spins them into billing-ready logic.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/palomaai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "paloma (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Blank Bio (YC S25)",
+    "description": "Building the next generation of RNA foundation models.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/blank-bio",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "blank bio (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Tesora",
+    "description": "Tesora is the world's first \"Supplier Deep Research\" platform that works with platforms like Coupa and SAP Ariba.\n\n\nOur platform deploys a fleet of Sourcing agents that cold-source, qualify, and engage suppliers. Kick off a detailed RFP for any goods or service in minutes and get notified when qualified suppliers are ready to negotiate quotes that fit your requirements. Works on top of Ariba, Coupa, and other P2P software to add superintelligence to your sourcing team.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/tesora-ai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "short_desc",
+      "snippet": "powering the world's most ambitious procurement teams with \"supplier deep research\" (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Nuntius (YC S25)",
+    "description": "The best AI communications platform.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/nuntiuscomm",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "nuntius (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Keystone (YC S25)",
+    "description": "Replace manual QA and Playwright tests with AI-powered autonomous testing. Catch bugs faster and ship with confidence.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/withkeystone",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "keystone (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Gaus (YC S25)",
+    "description": "The future of personal investing starts here.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/joingaus",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "gaus (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "daymi (YC S25)",
+    "description": "We're creating the most useful journal ever.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/daymiai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "daymi (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Knowlify (YC S25)",
+    "description": "Knowlify transforms textual content into easily-digestible video content.\n\nBook a meeting to create videos @ www.knowlify.net",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/knowlify",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "knowlify (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Nexa Labs (YC S25)",
+    "description": "A comprehensive solution for cattle health management",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/nexafarm",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "nexa labs (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "cocreate (YC S25)",
+    "description": "A post-production tool that helps post teams go from card to edit.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/co-create-ai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "cocreate (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Freya (YC S25)",
+    "description": "Secure, compliant, human-like voice AI. Backed by Y Combinator.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/freyavoice",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "freya (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Vibe Code Go (YC S25)",
+    "description": "Getting you to inbox zero while you drive.\n\nPower through emails with Pocket, an AI voice assistant. Designed for dealmakers.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/vibecodego",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "vibe code go (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Opennote (YC S25)",
+    "description": "Your learning style is unique—your educational tools should be too. Create your perfect learning environment with Opennote's interactive tools and bring your learning to life. \n\nContact: support@opennote.me",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/opennote",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "opennote (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Planisphere (YC S25)",
+    "description": "We are building an AI analyst that handles the CRE acquisitions workflow",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/planisphereai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "planisphere (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "TipTop AI (YC S25)",
+    "description": "Physics-informed AI for CAD design optimization",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/tiptop-ai",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "tiptop ai (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "EffiGov (YC S25)",
+    "description": "EffiGov provides an AI phone agent that knows everything about your municipality and talks just like a human (no pressing 1 on the keypad). We handle the 50-80% of calls that are non-urgent so your call center can focus on what's important.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/effigov",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "effigov (yc s25)"
+    },
+    "source": "linkedin"
+  },
+  {
+    "name": "Lemma (YC S25)",
+    "description": "We’re building Lemma because we’ve been there.\n\nWe’ve worked in professional services and lived the pain — buried in work that doesn’t move the needle. Aggregating numbers from back surveys. Hunting for that one number buried in a mountain of files. Pulling quotes from hours of expert calls. Drafting version 10 of the interview guide. Rebuilding the same CDD survey from scratch. Programming those 100 question surveys.\n\nGeneric AI agents don’t work here. They don’t understand your content, your context, or your workflow.\n\nLemma builds AI teammates tailored to the way you actually work — built by people who’ve done the work. Our agents plug into your tools, learn your processes, and handle the grunt work behind the scenes — so you can focus on insights, strategy, and moving fast.",
+    "website": null,
+    "yc_profile_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/withlemma",
+    "linkedin_mentions_s25": true,
+    "linkedin_match": {
+      "location": "name",
+      "snippet": "lemma (yc s25)"
+    },
+    "source": "linkedin"
+  }
+]

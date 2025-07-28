@@ -1,0 +1,7 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+tqdm==4.66.1
+streamlit
+pandas==2.2.2
+black==24.4.2
+selenium==4.21.0
